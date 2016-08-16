@@ -1,0 +1,34 @@
+body{
+	background:#fff68f;
+}
+h1{
+	font-family: Verdana;
+	background:#800000;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	border-radius: 20px;
+}
+h2{
+	text-align: center;
+}
+.summary{
+	text-align: center;
+}
+.preamble{
+	font-family: Arial;
+	background: #afeeee;
+	border-radius:3,5px;
+}
+.participation{
+	font-family: Century;
+	background: #f5f5dc;
+	border-radius: 10px
+}
+.requirements{
+	font-family: Arial;
+	color:#660066;
+	background: #ffe4e1;
+	border-radius: 60px;
+	text-align: center;
+}
